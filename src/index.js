@@ -8,3 +8,5 @@ const sayHello = () => {
 };
 
 sayHello();
+
+const niceMessage = require('./say-hello.js');
